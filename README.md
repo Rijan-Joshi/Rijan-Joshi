@@ -1,4 +1,7 @@
 
+<h1 align = "center">
+    <img src="https://avatars.githubusercontent.com/u/157405880?s=400&u=b2f1a5f20035a6b1725e1de574c10ddfd9a607c6&v=4"/>
+</h1>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Recursive&size=35&center=true&vCenter=true&width=500&height=70&weight=900&color=05031D&&duration=4000&lines=Hey!+👋;+I'm+Rijan+Shrestha!;" />
 </h1>
