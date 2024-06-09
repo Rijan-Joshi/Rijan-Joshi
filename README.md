@@ -50,9 +50,9 @@
   <img width=390 src="https://streak-stats.demolab.com?user=Rijan-Joshi&theme=python-dark&count_private=true&" alt="GitHub Streak" />
     <img width=390 src="https://github-readme-stats-rijan-shresthas-projects-a5d902bf.vercel.app/api?username=Rijan-Joshi&theme=react&show_icons=true&hide_border=true&count_private=true&rank_icon=github" alt="Rijan-Joshi's Stats">
   <br/>
-  <img src="https://github-readme-stats-rijan-shresthas-projects-a5d902bf.vercel.app/api/top-langs/?username=Rijan-Joshi&theme=react&show_icons=true&hide_border=true&layout=compact&langs_count=15" alt="Rijan-Joshi's Top Languages">
-
+   <img align="center" src="https://github-readme-stats-rijan-shresthas-projects-a5d902bf.vercel.app/api/top-langs/?username=Rijan-Joshi&layout=pie&theme=react" />
 </div>
+
 
 <br/><br/>
 
