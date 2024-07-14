@@ -50,7 +50,7 @@
   <img width=390 src="https://streak-stats.demolab.com?user=Rijan-Joshi&theme=python-dark&count_private=true&" alt="GitHub Streak" />
     <img width=390 src="https://github-readme-stats-rijan-shresthas-projects-a5d902bf.vercel.app/api?username=Rijan-Joshi&theme=react&show_icons=true&hide_border=true&count_private=true&rank_icon=github" alt="Rijan-Joshi's Stats">
   <br/>
-   <img align="center" src="https://github-readme-stats-psi-eosin-62.vercel.app/api/top-langs/?username=Rijan-Joshi&layout=pie&theme=react&count_private=true" />
+  <!-- <img align="center" src="https://github-readme-stats-psi-eosin-62.vercel.app/api/top-langs/?username=Rijan-Joshi&layout=pie&theme=react&count_private=true" /> -->
 </div>
 
 
