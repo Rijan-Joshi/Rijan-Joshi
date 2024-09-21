@@ -43,7 +43,7 @@
 </div>
 
 <hr/>
-
+<!--
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
@@ -52,9 +52,7 @@
   <br/>
   <img align="center" src="https://github-readme-stats-psi-eosin-62.vercel.app/api/top-langs/?username=Rijan-Joshi&layout=pie&theme=react&count_private=true" /> 
 </div>
-
-
-
+-->
 
 <hr/>
 
