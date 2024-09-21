@@ -6,10 +6,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Recursive&size=35&center=true&vCenter=true&width=500&height=70&weight=900&color=ffffff&&duration=4000&lines=Hey!;+I'm+Rijan+Shrestha!;" />
 </h1>
 
-<h3 align="center">Coding towards digital singularity</h3>
-
 <br/>
- 
+<br/>
+<br/>
+
 <div align="center"> 
   <a href="mailto:csaijspy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red&border_radius=10" />
@@ -22,28 +22,18 @@
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,express,python,firebase,mongodb,nodejs" /><br>
     <img src="https://skillicons.dev/icons?i=github,figma,tailwind,html,css,vscode,react,mui,git" />
 </div>
-
-<br/>
-<hr/>
-
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
   <img alt="My contributions devoured by Snake" src="https://raw.githubusercontent.com/Rijan-Joshi/Rijan-Joshi/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
 </div>
 
-<hr/>
+
+
 <!--
+<h3 align="center">Coding towards digital singularity</h3>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
@@ -53,8 +43,3 @@
   <img align="center" src="https://github-readme-stats-psi-eosin-62.vercel.app/api/top-langs/?username=Rijan-Joshi&layout=pie&theme=react&count_private=true" /> 
 </div>
 -->
-
-<hr/>
-
-<br/>
-
