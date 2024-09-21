@@ -6,6 +6,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Recursive&size=35&center=true&vCenter=true&width=500&height=70&weight=900&color=ffffff&&duration=4000&lines=Hey!;+I'm+Rijan+Shrestha!;" />
 </h1>
 
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=javascript,express,python,firebase,mongodb,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=github,figma,tailwind,html,css,vscode,react,mui,git" />
+</div>
+
+
 <br/>
 <br/>
 <br/>
@@ -22,10 +29,7 @@
   </a>
 </div>
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,express,python,firebase,mongodb,nodejs" /><br>
-    <img src="https://skillicons.dev/icons?i=github,figma,tailwind,html,css,vscode,react,mui,git" />
-</div>
+
 <div align="center">
   <img alt="My contributions devoured by Snake" src="https://raw.githubusercontent.com/Rijan-Joshi/Rijan-Joshi/output/github-contribution-grid-snake.svg" />
 </div>
