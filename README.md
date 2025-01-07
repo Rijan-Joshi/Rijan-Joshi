@@ -31,7 +31,7 @@
 
 
 <div align="center">
-  <img alt="My contributions devoured by Snake" src="https://raw.githubusercontent.com/Rijan-Joshi/Rijan-Joshi/output/github-contribution-grid-snake.svg" />
+  <img alt="My contributions eaten by Snake" src="https://raw.githubusercontent.com/Rijan-Joshi/Rijan-Joshi/output/github-contribution-grid-snake.svg" />
 </div>
 
 
