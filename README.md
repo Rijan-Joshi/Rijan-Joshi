@@ -38,7 +38,7 @@
 
 <!--
 <h3 align="center">Coding towards digital singularity</h3>
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Statistics ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com?user=Rijan-Joshi&theme=python-dark&count_private=true&" alt="GitHub Streak" />
