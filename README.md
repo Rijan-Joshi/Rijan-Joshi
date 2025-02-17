@@ -1,4 +1,4 @@
-
+<!--
 <h1 align = "center">
     <img width=200 src="https://avatars.githubusercontent.com/u/157405880?s=400&u=b2f1a5f20035a6b1725e1de574c10ddfd9a607c6&v=4"/>
 </h1>
@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=10" target="_blank" />
   </a>
   <a href="https://github.com/Rijan-Joshi" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&border_raidus=10" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&border_raidus=10" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options
   </a>
 </div>
 
@@ -34,7 +34,7 @@
   <img alt="My contributions eaten by Snake" src="https://raw.githubusercontent.com/Rijan-Joshi/Rijan-Joshi/output/github-contribution-grid-snake.svg" />
 </div>
 
-
+ -->
 
 <!--
 <h3 align="center">Coding towards digital singularity</h3>
